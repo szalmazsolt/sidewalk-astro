@@ -1,0 +1,24 @@
+{
+  "name": "sidewalk-astro",
+  "version": "0.1.0",
+  "description": "REST API for managing sidewalk astrony events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "astronomy",
+    "sidewalk-astronomy",
+    "science"
+  ],
+  "author": "Zsolt Szalma",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4"
+  }
+}
